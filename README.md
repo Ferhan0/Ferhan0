@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ferhan 👋
 
-<!--
-**Ferhan0/Ferhan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer (Go) | Computer Engineering graduate, Mersin University (2026)
 
-Here are some ideas to get you started:
+I build REST APIs and backend systems with Go, Gin, GORM and PostgreSQL, and ship them with Docker. I recently interned at a cybersecurity and IoT software company, working on backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** Go · Gin · GORM · PostgreSQL · Docker · Git · React Native
+
+**Projects**
+- [tracker-api](https://github.com/Ferhan0/tracker-api): Go REST API with JWT auth, PostgreSQL and Docker Compose (in progress)
+
+**Looking for:** remote backend roles
+📫 akdagferhan9@gmail.com
+
